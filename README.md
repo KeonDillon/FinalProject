@@ -97,7 +97,7 @@
       <p>Slideshow of Natural Bridge</p>
 
       <p>
-        The purpose of this page is to learn the techniques of Cesium and Mapbox. I wanted to learn how these work, so I can create a stunning final project.
+        The purpose of this page is to learn the techniques of Cesium and Mapbox. 
       </p>
 
       <p>
