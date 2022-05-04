@@ -72,7 +72,7 @@
 
   <body>
     <section>
-      <h1>Hello World!</h1>
+      <h1>Hello GEO409!</h1>
       <h2>Take a tour of Kentucky's Natural Bridge!</h2>
 
       <iframe
