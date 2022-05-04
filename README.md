@@ -97,12 +97,12 @@
       <p>Slideshow of Natural Bridge</p>
 
       <p>
-        The purpose of this page is to learn the techniques of Cesium and Mapbox. 
+        The purpose of this page is to learn the techniques of Cesium and Mapbox. As an engineer, I find it very useful to have a contour and a 3D model of the area. This helps me understand how to read contour maps. 
       </p>
 
       <p>
         The goal of this project was to see how natural bridge looks from different perspectives. 
-        The normal person would not get to see this land feautre from these angles. 
+        The normal person would not get to see this land feature from these angles. 
       </p>
 
       <!-- <img src="map1.jpg" alt="Something about this map" width="100%" /> -->
